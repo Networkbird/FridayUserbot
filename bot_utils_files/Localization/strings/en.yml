@@ -7,6 +7,7 @@ AFK_2: "#AfkLogger Afk Is Active And Reason is {}"
 AFK_3: "**I Am Busy And I Am Going Afk**."
 AFK_4: "__Pro is Back Alive__\n**No Longer afk.**\n `I Was afk for: {}`"
 AFK_5: "#AfkLogger User is Back Alive ! No Longer Afk\n AFK for : {}"
+AFK_6: "मैं अभी **[AFK]** हूं। \n**अतिम बार देखा गया था `{}` पहले।**"
 INPUT_REQ: "**400_EXPECTED_INPUT:** `No Input Found.` **Expected :** `{}`"
 INVALID_CHAT_ID: "**404_INVALID_CHAT_ID:** `Invalid Chat ID Given. Please Make Sure ID is Valid & You Are In The Chat.`"
 CHAT_ALREADY_IN_DB: "`This Chat is Already in my DB & I Don't Find Any Reason To Add it Again.`"
@@ -211,7 +212,7 @@ GETTING_RESULTS: "`Searching Results Matching For {}. Please Wait.`"
 ALIVE_: "
 **{}'s Friday-UserBot is Alive!**\n\n
 
-\n➔ **Version :** __{}__
+\n➔ **Version :** {}
 \n➔ **Uptime :** __{}__
 \n➔ **PyroGram Version :** __{}__
 \n➔ **Python Version :** __{}__
